@@ -1,2 +1,2 @@
 # CombinationPrinter
-Takes in character string an dprints out every combination they can take in string format and in order.
+Takes in character string and prints out every combination they can take in string format and in order.
